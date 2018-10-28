@@ -7,4 +7,4 @@ authors = ["soudegesu <soudegesu@hotmail.co.jp>"]
 
 [[bin]]
 name = "rust_practice"
-path = "main.rs"
+path = "src/main.rs"
