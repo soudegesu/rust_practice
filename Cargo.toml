@@ -1,0 +1,10 @@
+[package]
+name = "rust_practice"
+version = "0.1.0"
+authors = ["soudegesu <soudegesu@hotmail.co.jp>"]
+
+[dependencies]
+
+[[bin]]
+name = "rust_practice"
+path = "main.rs"
