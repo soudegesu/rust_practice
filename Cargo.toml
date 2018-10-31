@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["soudegesu <soudegesu@hotmail.co.jp>"]
 
 [dependencies]
+rand="0.3.0"
 
 [[bin]]
 name = "rust_practice"
